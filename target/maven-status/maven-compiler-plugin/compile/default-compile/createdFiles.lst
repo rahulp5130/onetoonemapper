@@ -1,0 +1,11 @@
+com\crossasyst\mapping\onetoonemapper\model\PersonResponse.class
+com\crossasyst\mapping\onetoonemapper\mapper\PersonMapper.class
+com\crossasyst\mapping\onetoonemapper\OnetoonemapperApplication.class
+com\crossasyst\mapping\onetoonemapper\model\Address.class
+com\crossasyst\mapping\onetoonemapper\mapper\PersonMapperImpl.class
+com\crossasyst\mapping\onetoonemapper\entity\PersonEntity.class
+com\crossasyst\mapping\onetoonemapper\model\PersonRequest.class
+com\crossasyst\mapping\onetoonemapper\controller\PersonController.class
+com\crossasyst\mapping\onetoonemapper\entity\AddressEntity.class
+com\crossasyst\mapping\onetoonemapper\repository\PersonRepository.class
+com\crossasyst\mapping\onetoonemapper\service\PersonService.class
